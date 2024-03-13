@@ -85,11 +85,11 @@
 </p>
 
 
-<div style="display: flex; justify-content: space-around;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pavi57&show_icons=true&locale=en&layout=compact" alt="pavi57" style="width: 300px; height: 200px; object-fit: cover;" />
-  <img src="https://github-readme-stats.vercel.app/api?username=pavi57&show_icons=true&locale=en" alt="pavi57" style="width: 300px; height: 200px; object-fit: cover;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pavi57&" alt="pavi57" style="width: 300px; height: 200px; object-fit: cover;" />
-</div>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pavi57&show_icons=true&locale=en&layout=compact" alt="pavi57" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pavi57&show_icons=true&locale=en" alt="pavi57" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pavi57&" alt="pavi57" /></p>
 
 
 
