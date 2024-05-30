@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **pavitraarumugam5@gmail.com**
 
-- 📄 Explore my experiences and connect with me on LinkedIn [https://www.linkedin.com/in/pavitra-a-6876b4228/](https://www.linkedin.com/in/pavitra-a-6876b4228/)
+- 📄 Explore my experiences and connect with me on LinkedIn [https://www.linkedin.com/in/a-pavitra/](https://www.linkedin.com/in/a-pavitra/)
 
 - ⚡ Fun fact **Just like a detective cracking a case, I thrive on the thrill of tracking down bugs in my code! With every error I encounter, I embark on a riveting journey of discovery and problem-solving.**
 
